@@ -1,0 +1,30 @@
+class-4
+
+e.preventDefault();
+event interface that tells user that input is not valid
+
+Various tags of HTML, 
+
+h1.abc#xyz
+<h1 class="abc" id="xyz"></h1>
+
+margin= bahar spacing
+padding = andar spacing
+
+% gives more responsiveness than px
+eg, margin- 50% then it will cover 50% of total page only whereas 200px will always cover 200px no matter screen is small/big.
+
+inline elements :-
+block elements :-
+
+grid-template-columns: repeat(3,1fr);
+means= 3 coloumns of equal fractions.
+
+grid-template-columns: 80% 200px;
+means = 1st element(p) will cover 80% and the next element (h3) will cover 200px..
+
+display:flex;
+justify-content:space-around;
+means = items will have space before, between, and after them.
+justify-content:space-between;
+items will not get space before and after them. they will get space only between them.
